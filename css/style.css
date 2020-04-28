@@ -1824,3 +1824,9 @@ h1, h2, h3, h4, h5,
     width: 90px;
     height: 90px;
 }
+
+.project-img {
+  max-width: 100%;
+  max-height: 303.75px;
+  object-fit: contain;
+}
