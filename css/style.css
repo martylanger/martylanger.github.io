@@ -212,7 +212,7 @@ body {
   color: #364d59 !important;
   font-weight: 300;
   font-size: 1rem;
-  background-color: brown;
+  background-color: blue;
 }
 
 ::-moz-selection {
@@ -1823,8 +1823,14 @@ h1, h2, h3, h4, h5,
   width: 70px; }
 
 .icon-img {
-    width: 90px;
-    height: auto;
+  width: 90px;
+  height: 90px;
+  align-content: space-between;
+}
+
+.icon-img-2 {
+  width: 90px;
+  height: auto;
 }
 
 .project-img {
